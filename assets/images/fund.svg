@@ -1,0 +1,15 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="35" cy="35" r="35" fill="url(#paint0_linear_14_206)"/>
+<line x1="24.1466" y1="45.1846" x2="32.5569" y2="36.7743" stroke="white" stroke-width="4.15313" stroke-linecap="round"/>
+<line x1="38.9645" y1="43.108" x2="47.3748" y2="34.6977" stroke="white" stroke-width="4.15313" stroke-linecap="round"/>
+<line x1="2.07656" y1="-2.07656" x2="9.27048" y2="-2.07656" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 38.1338 45.2846)" stroke="white" stroke-width="4.15313" stroke-linecap="round"/>
+<path d="M25.223 33.06H22.731V35.72H21.275V33.06H18.783V31.646H21.275V29H22.731V31.646H25.223V33.06Z" fill="white"/>
+<path d="M35.223 25.06H32.731V27.72H31.275V25.06H28.783V23.646H31.275V21H32.731V23.646H35.223V25.06Z" fill="white"/>
+<path d="M47.223 27.06H44.731V29.72H43.275V27.06H40.783V25.646H43.275V23H44.731V25.646H47.223V27.06Z" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear_14_206" x1="35" y1="0" x2="35" y2="70" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2C2C84"/>
+<stop offset="1" stop-color="#0E0E35"/>
+</linearGradient>
+</defs>
+</svg>
